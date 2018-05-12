@@ -1,0 +1,31 @@
+_repo: A-New-Sensation_40937
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40937-h/images/icover.jpg
+creator:
+  author:
+    agent_name: Ross, Albert
+    alias: Porter, Linn Boyd
+    birthdate: 1851
+    deathdate: 1916
+    gutenberg_agent_id: '40905'
+    url: http://www.gutenberg.org/2009/agents/40905
+description: ''
+gutenberg_issued: '2012-10-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40937'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Novelists -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Voyages and travels -- Fiction'
+- !lcsh 'West Indies -- Fiction'
+- !lcsh 'Secretaries -- Fiction'
+title: A New Sensation
+url: http://www.gutenberg.org/ebooks/40937
